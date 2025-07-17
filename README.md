@@ -1,2 +1,2 @@
 # sơ đồ khối
-<img width="1019" height="733" alt="image" src="https://github.com/user-attachments/assets/5b2d748f-9280-4132-97f0-6d2e20e6bba5" />
+<img width="1003" height="730" alt="image" src="https://github.com/user-attachments/assets/effe3ead-e070-478d-9db2-c3c068df9085" />
