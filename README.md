@@ -1,4 +1,4 @@
-# sơ đồ viso
+# sơ đồ visio
 
 <img width="1002" height="711" alt="image" src="https://github.com/user-attachments/assets/9bcfcf45-e60d-4c04-a4e7-a1b1fcba1536" />
 
