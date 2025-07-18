@@ -1,5 +1,5 @@
-# sơ đồ khối
-<img width="1003" height="730" alt="image" src="https://github.com/user-attachments/assets/effe3ead-e070-478d-9db2-c3c068df9085" />
+# sơ đồ viso
+<img width="768" height="524" alt="image" src="https://github.com/user-attachments/assets/c6a23a59-7f08-428f-ae0a-3d71c58a1790" />
 mẫu đã chọn
 
 mẫu 1:
