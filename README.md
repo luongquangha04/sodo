@@ -1,6 +1,6 @@
 # sơ đồ viso
 
-<img width="992" height="634" alt="image" src="https://github.com/user-attachments/assets/afff5c5d-0c95-41a6-b6a7-f6d6f6b81189" />
+<img width="1002" height="711" alt="image" src="https://github.com/user-attachments/assets/9bcfcf45-e60d-4c04-a4e7-a1b1fcba1536" />
 
 mẫu đã chọn
 
